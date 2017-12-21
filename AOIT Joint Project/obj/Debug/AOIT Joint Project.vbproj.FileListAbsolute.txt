@@ -1,0 +1,25 @@
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.exe.config
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.exe
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.pdb
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.xml
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.vbprojResolveAssemblyReference.cache
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT_Joint_Project.FRM_Main.resources
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT_Joint_Project.Resources.resources
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.vbproj.GenerateResource.Cache
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.vbproj.CoreCompileInputs.cache
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.exe
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.xml
+C:\Users\NickPC\Documents\Visual Studio 2017\Projects\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.pdb
+D:\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.exe.config
+D:\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.exe
+D:\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.pdb
+D:\AOIT Joint Project\AOIT Joint Project\bin\Debug\AOIT Joint Project.xml
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.vbprojResolveAssemblyReference.cache
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT_Joint_Project.FRM_Main.resources
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT_Joint_Project.Resources.resources
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.vbproj.GenerateResource.Cache
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.vbproj.CoreCompileInputs.cache
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.exe
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.xml
+D:\AOIT Joint Project\AOIT Joint Project\obj\Debug\AOIT Joint Project.pdb
